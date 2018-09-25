@@ -924,7 +924,8 @@ header.theme-menu-wrapper.menu-style-three.fixed #mega-menu-wrapper .nav>li>a {p
 }
 .what-we-do .container>h6 {
   color: rgba(37,47,62,0.8);
-  margin: 50px 0 130px 0;
+  margin: 50px 0 90px 0;
+  line-height: 36px;
 }
 .what-we-do .single-block .icon {
   width: 121px;
