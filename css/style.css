@@ -311,12 +311,12 @@ header.theme-menu-wrapper.menu-style-two #mega-menu-wrapper .nav .login-button a
   bottom: 0;
   z-index: -1;
 }
-.theme-title h2 {line-height: 55px;margin-top: 20px;}
+.theme-title h2 {line-height: 35px;margin-top: 10px;}
 .theme-title-two h6 {
   font-weight: 500;
   font-size: 20px;
   color: rgba(0,0,0,0.3);
-  margin-bottom: 15px;
+  margin-bottom: 5px;
 }
 .theme-title-two h2 {
   line-height: 55px;
@@ -1169,11 +1169,11 @@ header.theme-menu-wrapper.menu-style-three.fixed #mega-menu-wrapper .nav>li>a {p
   left:0;
   top:15px;
 }
-.home-service-section .theme-title {margin-bottom: 70px;}
+.home-service-section .theme-title {margin-bottom: 25px;}
 .home-service-section .theme-title p {
   font-family: 'Lato', sans-serif;
   font-size: 20px;
-  margin:35px 0 20px 0;
+  margin:15px 0 10px 0;
   display: inline-block;
 }
 .home-service-section .theme-title a {
@@ -1195,16 +1195,16 @@ header.theme-menu-wrapper.menu-style-three.fixed #mega-menu-wrapper .nav>li>a {p
 }
 .home-service-section ul {margin: 0 -35px;}
 .home-service-section ul li {
-  padding: 0 35px;
-  margin-bottom: 90px;
+  padding: 0 0px;
+  margin-bottom: 15px;
 }
 .home-service-section ul li div {
   position: relative;
-  padding: 0 0 0 90px;
+  padding: 0 0 0 95px;
 }
 .home-service-section ul li div h5 a {
   color: #00000a;
-  margin-bottom: 12px;
+  margin-bottom: 5px;
 }
 .home-service-section ul li div p {
   line-height: 30px;
@@ -1217,8 +1217,8 @@ header.theme-menu-wrapper.menu-style-three.fixed #mega-menu-wrapper .nav>li>a {p
   left:0;
 }
 .home-service-section ul li:hover div i {
-  -webkit-transform:scale(0.9);
-          transform:scale(0.9);
+  -webkit-transform:scale(0.8);
+          transform:scale(0.8);
 }
 .home-service-section ul li div i.flaticon-user {color: #088ed3;}
 .home-service-section ul li div i.flaticon-layers {color: #ff5757;}
